@@ -27,3 +27,9 @@ Functions, methods, and properties used: .read_csv(), .pivot_table(), .replace()
 Concepts explored: pandas, matplotlib, histograms, bar charts, scatterplots, scatter_matrix
 
 Functions, methods, and properties used: .plot(), scatter_matrix(), hist(), iloc[], .head(), .tail(), .describe()
+
+## Project #5: Visualizing The Gender Gap In College Degrees
+
+Concepts explored: pandas, matplotlib, histograms, line plots, chart graphics
+
+Functions, methods, and properties used: .savefig(), .text(), .axhline(), .set_yticks(), .tick_params(), .set_title(), .set_ylim(), .set_xlim(), .spines(), 
