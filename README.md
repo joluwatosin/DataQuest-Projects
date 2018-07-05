@@ -33,3 +33,9 @@ Functions, methods, and properties used: .plot(), scatter_matrix(), hist(), iloc
 Concepts explored: pandas, matplotlib, histograms, line plots, chart graphics
 
 Functions, methods, and properties used: .savefig(), .text(), .axhline(), .set_yticks(), .tick_params(), .set_title(), .set_ylim(), .set_xlim(), .spines(), 
+
+## Project #6: Analyzing NYC High School Data
+
+Concepts explored: pandas, matplotlib.pyplot, correlations, regex, basemap, data analysis, string manipulation
+
+Functions, methods, and properties used: .scatter(), info(), .tolist(), .groupby(), .agg(), .concat(), .apply(), .strip, .merge(), .fillna(), .corr()
