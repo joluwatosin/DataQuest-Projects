@@ -1,0 +1,38 @@
+1. What words appear most often in the headlines?
+    From the analysis done in count.py
+    1. 'the' = 2045 times
+    2. 'to' = 1641 times
+    3. 'a' = 1276 times
+    4. 'of' = 1170 times
+    5. 'for' = 1140 times
+
+2. What domains were submitted most often to Hacker News?
+    From the analysis done in domains.py
+    1. github.com: 174
+    2. techcrunch.com: 172
+    3. youtube.com: 142
+    4. nytimes.com: 109
+    5. medium.com: 88
+    6. wired.com: 76
+
+3. At what times are the most articles submitted?
+    From the analysis done in times.py
+    1. 17:00hrs    646 times
+    2. 16:00hrs    627 times
+    3. 15:00hrs    618 times
+    4. 14:00hrs    602 times
+    5. 18:00hrs    575 times
+ 
+4. How many articles were submitted on each day of the month?
+
+5. How many articles were submitted each year?
+
+6. How many articles were submitted on each day of the week?
+
+7. How many articles were submitted each minute?
+
+8. What headline length leads to the most upvotes?
+
+9. What submission time leads to the most upvotes?
+
+10. How are the total numbers of upvotes changing over time?
