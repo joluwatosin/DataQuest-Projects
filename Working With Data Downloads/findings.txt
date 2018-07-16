@@ -1,0 +1,19 @@
+exploration.py:
+    1. There are far more male (6 times more) students enrolled in Juvenile Justice Facilities than females
+    2. On average, there are more males enrolled than females across the board.
+    3. Normal schools still have the bulk of students enrolled whilke Juvenile Justice Facilities have the least number of students enrolled(which is a good thing)
+
+enrollment.py:
+    1. White studnets make up the largest chunk of students enrolled. This shows that compared to the ratio of whites in the U.S. population(Roughly 62%) whites in total make up less than 50% of the student population. This might mean that a lot of white people (within school age range) do not go to school or that there are in terms of children, the ratio of whites to other races is not that pronounced. 
+    2. The percengtage of white males to white females enrolled is almost evenly split. (a mere 1.6% difference)
+    3. Hawaiian or Pacific Islander students make up the smallest portion of the student body. This is relflective of their overall population in the U.S where they make up just 0.2% of the population.
+    4. Hispanic students making up about 25% of the student population compared to the 17% they hold in the total U.S. population  can mean that have a lot of children.
+
+    
+    Things to explore further:
+        1. Review expulsions (which refers to when students are kicked out of school permanently). Columns like 'SCH_DISCWODIS_EXPWOE_HI_M' and 'TOT_DISCWODIS_EXPZT_F' contain information on expulsions.
+        2. Explore gender and race differences in SAT scores. Columns like 'SCH_SATACT_HI_M' contain this information.
+        3. Figure out the racial and gender breakdowns for different types of schools, such as magnet schools.
+        4. Determine how many students are in gifted and talented programs, or advanced placement classes.
+Investigate how racial differences in enrollment change from preschool to high school.
+        5. Explore school bullying. The 'SCH_HBDISCIPLINED_DIS_HI_M' column contains some of this information.
